@@ -20,3 +20,4 @@ plt.title(u"test data", fontsize=16)
 plt.xlabel(u"time", fontsize=16)
 plt.ylabel(u"CPU%", fontsize=20)
 plt.show()
+data = ['64', '71', '64', '59', '69', '62', '57', '87', '89','64', '71', '64', '59', '69', '62', '57', '87', '89']
